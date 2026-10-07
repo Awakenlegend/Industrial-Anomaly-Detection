@@ -44,3 +44,4 @@ The longest detected abnormal period lasted approximately **15 hours**.
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Jupyter
 # Industrial-Anomaly-Detection
+# Industrial-Anomaly-Detection
